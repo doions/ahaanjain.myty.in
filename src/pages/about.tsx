@@ -19,11 +19,13 @@ const About = () => {
         <p>
           You can visit my <a href="https://ahaanjain.myty.in">website</a>
           
-          I am a six year old boy studying in witty international school. I aspire to become an entrepreneur and a tech expert in the future.
-          I enjoy watching peep and chirp animation, ryan toy review, pink panthor.
-          My favorite activity is playing badminton, football and cricket with my friends.
-          I live in Malad (West),Mumbai.
-         </p>
+        
+        I am a six-year-old boy studying at witty international school. I aspire to become an entrepreneur and a tech expert in the future. I enjoy watching peep and chirp animation, Ryan toy review, pink panther.
+     My favourite activity is playing badminton, football and cricket with my friends.
+        </p>
+          <p>
+     I live in Malad (West), Mumbai.
+        </p>
       </AnimatedBox>
     </Layout>
   )
